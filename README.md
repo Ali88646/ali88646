@@ -29,10 +29,6 @@ Frontend Developer specializing in building scalable web and mobile applications
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ali88646&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ali88646&layout=compact&theme=github_dark&hide_border=true)
-
-
 ## 📫 Contact
 
 - 📧 Email: alitunio.work@gmail.com
